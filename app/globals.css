@@ -2,6 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
+/* 
 @import url('https://better.com/amplify-poc/_next/static/css/06556c4f804673da.css');
-@import url('https://better.com/amplify-poc/_next/static/css/eb57c3d52384af40.css');
-/* @import url('https://better.com/amplify-poc/_next/static/css/eb57c3d52384af40.css'); */
+@import url('https://better.com/amplify-poc/_next/static/css/eb57c3d52384af40.css'); */
+@import url('../styles//BetterStyle.css');
+

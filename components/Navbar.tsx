@@ -35,9 +35,9 @@ const Navbar = () => {
                     viewBox="0 0 24 24"
                     fill="none"
                     stroke="currentColor"
-                    stroke-width="2"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
+                    strokeWidth="2"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
                     className="lucide lucide-x "
                   >
                     <path d="M18 6 6 18"></path>
@@ -56,9 +56,9 @@ const Navbar = () => {
                   viewBox="0 0 24 24"
                   fill="none"
                   stroke="currentColor"
-                  stroke-width="2"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
+                  strokeWidth="2"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
                   className="lucide lucide-chevron-down ml-2 inline-block group-open:rotate-180 fill-black stroke-none"
                 >
                   <path d="m6 9 6 6 6-6"></path>
@@ -141,9 +141,9 @@ const Navbar = () => {
                   viewBox="0 0 24 24"
                   fill="none"
                   stroke="currentColor"
-                  stroke-width="2"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
+                  strokeWidth="2"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
                   className="lucide lucide-chevron-down ml-2 inline-block group-open:rotate-180 fill-black stroke-none"
                 >
                   <path d="m6 9 6 6 6-6"></path>
@@ -194,9 +194,9 @@ const Navbar = () => {
                   viewBox="0 0 24 24"
                   fill="none"
                   stroke="currentColor"
-                  stroke-width="2"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
+                  strokeWidth="2"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
                   className="lucide lucide-chevron-down ml-2 inline-block group-open:rotate-180 fill-black stroke-none"
                 >
                   <path d="m6 9 6 6 6-6"></path>
@@ -247,9 +247,9 @@ const Navbar = () => {
                   viewBox="0 0 24 24"
                   fill="none"
                   stroke="currentColor"
-                  stroke-width="2"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
+                  strokeWidth="2"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
                   className="lucide lucide-chevron-down ml-2 inline-block group-open:rotate-180 fill-black stroke-none"
                 >
                   <path d="m6 9 6 6 6-6"></path>
@@ -308,9 +308,9 @@ const Navbar = () => {
                   viewBox="0 0 24 24"
                   fill="none"
                   stroke="currentColor"
-                  stroke-width="2"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
+                  strokeWidth="2"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
                   className="lucide lucide-chevron-down ml-2 inline-block group-open:rotate-180 fill-black stroke-none"
                 >
                   <path d="m6 9 6 6 6-6"></path>
@@ -421,9 +421,9 @@ const Navbar = () => {
                     viewBox="0 0 24 24"
                     fill="currentColor"
                     stroke="currentColor"
-                    stroke-width="2"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
+                    strokeWidth="2"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
                     className="lucide lucide-user "
                   >
                     <path d="M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"></path>
@@ -482,9 +482,9 @@ const Navbar = () => {
                           viewBox="0 0 24 24"
                           fill="none"
                           stroke="currentColor"
-                          stroke-width="2"
-                          stroke-linecap="round"
-                          stroke-linejoin="round"
+                          strokeWidth="2"
+                          strokeLinecap="round"
+                          strokeLinejoin="round"
                           className="lucide lucide-arrow-right text-transparent group-hover/sub-menu:text-accentPrimary"
                         >
                           <path d="M5 12h14"></path>
@@ -505,9 +505,9 @@ const Navbar = () => {
                           viewBox="0 0 24 24"
                           fill="none"
                           stroke="currentColor"
-                          stroke-width="2"
-                          stroke-linecap="round"
-                          stroke-linejoin="round"
+                          strokeWidth="2"
+                          strokeLinecap="round"
+                          strokeLinejoin="round"
                           className="lucide lucide-arrow-right text-transparent group-hover/sub-menu:text-accentPrimary"
                         >
                           <path d="M5 12h14"></path>
@@ -528,9 +528,9 @@ const Navbar = () => {
                           viewBox="0 0 24 24"
                           fill="none"
                           stroke="currentColor"
-                          stroke-width="2"
-                          stroke-linecap="round"
-                          stroke-linejoin="round"
+                          strokeWidth="2"
+                          strokeLinecap="round"
+                          strokeLinejoin="round"
                           className="lucide lucide-arrow-right text-transparent group-hover/sub-menu:text-accentPrimary"
                         >
                           <path d="M5 12h14"></path>
@@ -551,9 +551,9 @@ const Navbar = () => {
                           viewBox="0 0 24 24"
                           fill="none"
                           stroke="currentColor"
-                          stroke-width="2"
-                          stroke-linecap="round"
-                          stroke-linejoin="round"
+                          strokeWidth="2"
+                          strokeLinecap="round"
+                          strokeLinejoin="round"
                           className="lucide lucide-arrow-right text-transparent group-hover/sub-menu:text-accentPrimary"
                         >
                           <path d="M5 12h14"></path>
@@ -574,9 +574,9 @@ const Navbar = () => {
                           viewBox="0 0 24 24"
                           fill="none"
                           stroke="currentColor"
-                          stroke-width="2"
-                          stroke-linecap="round"
-                          stroke-linejoin="round"
+                          strokeWidth="2"
+                          strokeLinecap="round"
+                          strokeLinejoin="round"
                           className="lucide lucide-arrow-right text-transparent group-hover/sub-menu:text-accentPrimary"
                         >
                           <path d="M5 12h14"></path>
@@ -597,9 +597,9 @@ const Navbar = () => {
                           viewBox="0 0 24 24"
                           fill="none"
                           stroke="currentColor"
-                          stroke-width="2"
-                          stroke-linecap="round"
-                          stroke-linejoin="round"
+                          strokeWidth="2"
+                          strokeLinecap="round"
+                          strokeLinejoin="round"
                           className="lucide lucide-arrow-right text-transparent group-hover/sub-menu:text-accentPrimary"
                         >
                           <path d="M5 12h14"></path>
@@ -620,9 +620,9 @@ const Navbar = () => {
                           viewBox="0 0 24 24"
                           fill="none"
                           stroke="currentColor"
-                          stroke-width="2"
-                          stroke-linecap="round"
-                          stroke-linejoin="round"
+                          strokeWidth="2"
+                          strokeLinecap="round"
+                          strokeLinejoin="round"
                           className="lucide lucide-arrow-right text-transparent group-hover/sub-menu:text-accentPrimary"
                         >
                           <path d="M5 12h14"></path>
@@ -643,9 +643,9 @@ const Navbar = () => {
                           viewBox="0 0 24 24"
                           fill="none"
                           stroke="currentColor"
-                          stroke-width="2"
-                          stroke-linecap="round"
-                          stroke-linejoin="round"
+                          strokeWidth="2"
+                          strokeLinecap="round"
+                          strokeLinejoin="round"
                           className="lucide lucide-arrow-right text-transparent group-hover/sub-menu:text-accentPrimary"
                         >
                           <path d="M5 12h14"></path>
@@ -679,9 +679,9 @@ const Navbar = () => {
                           viewBox="0 0 24 24"
                           fill="none"
                           stroke="currentColor"
-                          stroke-width="2"
-                          stroke-linecap="round"
-                          stroke-linejoin="round"
+                          strokeWidth="2"
+                          strokeLinecap="round"
+                          strokeLinejoin="round"
                           className="lucide lucide-arrow-right text-transparent group-hover/sub-menu:text-accentPrimary"
                         >
                           <path d="M5 12h14"></path>
@@ -702,9 +702,9 @@ const Navbar = () => {
                           viewBox="0 0 24 24"
                           fill="none"
                           stroke="currentColor"
-                          stroke-width="2"
-                          stroke-linecap="round"
-                          stroke-linejoin="round"
+                          strokeWidth="2"
+                          strokeLinecap="round"
+                          strokeLinejoin="round"
                           className="lucide lucide-arrow-right text-transparent group-hover/sub-menu:text-accentPrimary"
                         >
                           <path d="M5 12h14"></path>
@@ -725,9 +725,9 @@ const Navbar = () => {
                           viewBox="0 0 24 24"
                           fill="none"
                           stroke="currentColor"
-                          stroke-width="2"
-                          stroke-linecap="round"
-                          stroke-linejoin="round"
+                          strokeWidth="2"
+                          strokeLinecap="round"
+                          strokeLinejoin="round"
                           className="lucide lucide-arrow-right text-transparent group-hover/sub-menu:text-accentPrimary"
                         >
                           <path d="M5 12h14"></path>
@@ -748,9 +748,9 @@ const Navbar = () => {
                           viewBox="0 0 24 24"
                           fill="none"
                           stroke="currentColor"
-                          stroke-width="2"
-                          stroke-linecap="round"
-                          stroke-linejoin="round"
+                          strokeWidth="2"
+                          strokeLinecap="round"
+                          strokeLinejoin="round"
                           className="lucide lucide-arrow-right text-transparent group-hover/sub-menu:text-accentPrimary"
                         >
                           <path d="M5 12h14"></path>
@@ -784,9 +784,9 @@ const Navbar = () => {
                           viewBox="0 0 24 24"
                           fill="none"
                           stroke="currentColor"
-                          stroke-width="2"
-                          stroke-linecap="round"
-                          stroke-linejoin="round"
+                          strokeWidth="2"
+                          strokeLinecap="round"
+                          strokeLinejoin="round"
                           className="lucide lucide-arrow-right text-transparent group-hover/sub-menu:text-accentPrimary"
                         >
                           <path d="M5 12h14"></path>
@@ -807,9 +807,9 @@ const Navbar = () => {
                           viewBox="0 0 24 24"
                           fill="none"
                           stroke="currentColor"
-                          stroke-width="2"
-                          stroke-linecap="round"
-                          stroke-linejoin="round"
+                          strokeWidth="2"
+                          strokeLinecap="round"
+                          strokeLinejoin="round"
                           className="lucide lucide-arrow-right text-transparent group-hover/sub-menu:text-accentPrimary"
                         >
                           <path d="M5 12h14"></path>
@@ -830,9 +830,9 @@ const Navbar = () => {
                           viewBox="0 0 24 24"
                           fill="none"
                           stroke="currentColor"
-                          stroke-width="2"
-                          stroke-linecap="round"
-                          stroke-linejoin="round"
+                          strokeWidth="2"
+                          strokeLinecap="round"
+                          strokeLinejoin="round"
                           className="lucide lucide-arrow-right text-transparent group-hover/sub-menu:text-accentPrimary"
                         >
                           <path d="M5 12h14"></path>
@@ -853,9 +853,9 @@ const Navbar = () => {
                           viewBox="0 0 24 24"
                           fill="none"
                           stroke="currentColor"
-                          stroke-width="2"
-                          stroke-linecap="round"
-                          stroke-linejoin="round"
+                          strokeWidth="2"
+                          strokeLinecap="round"
+                          strokeLinejoin="round"
                           className="lucide lucide-arrow-right text-transparent group-hover/sub-menu:text-accentPrimary"
                         >
                           <path d="M5 12h14"></path>
@@ -889,9 +889,9 @@ const Navbar = () => {
                           viewBox="0 0 24 24"
                           fill="none"
                           stroke="currentColor"
-                          stroke-width="2"
-                          stroke-linecap="round"
-                          stroke-linejoin="round"
+                          strokeWidth="2"
+                          strokeLinecap="round"
+                          strokeLinejoin="round"
                           className="lucide lucide-arrow-right text-transparent group-hover/sub-menu:text-accentPrimary"
                         >
                           <path d="M5 12h14"></path>
@@ -912,9 +912,9 @@ const Navbar = () => {
                           viewBox="0 0 24 24"
                           fill="none"
                           stroke="currentColor"
-                          stroke-width="2"
-                          stroke-linecap="round"
-                          stroke-linejoin="round"
+                          strokeWidth="2"
+                          strokeLinecap="round"
+                          strokeLinejoin="round"
                           className="lucide lucide-arrow-right text-transparent group-hover/sub-menu:text-accentPrimary"
                         >
                           <path d="M5 12h14"></path>
@@ -935,9 +935,9 @@ const Navbar = () => {
                           viewBox="0 0 24 24"
                           fill="none"
                           stroke="currentColor"
-                          stroke-width="2"
-                          stroke-linecap="round"
-                          stroke-linejoin="round"
+                          strokeWidth="2"
+                          strokeLinecap="round"
+                          strokeLinejoin="round"
                           className="lucide lucide-arrow-right text-transparent group-hover/sub-menu:text-accentPrimary"
                         >
                           <path d="M5 12h14"></path>
@@ -958,9 +958,9 @@ const Navbar = () => {
                           viewBox="0 0 24 24"
                           fill="none"
                           stroke="currentColor"
-                          stroke-width="2"
-                          stroke-linecap="round"
-                          stroke-linejoin="round"
+                          strokeWidth="2"
+                          strokeLinecap="round"
+                          strokeLinejoin="round"
                           className="lucide lucide-arrow-right text-transparent group-hover/sub-menu:text-accentPrimary"
                         >
                           <path d="M5 12h14"></path>
@@ -981,9 +981,9 @@ const Navbar = () => {
                           viewBox="0 0 24 24"
                           fill="none"
                           stroke="currentColor"
-                          stroke-width="2"
-                          stroke-linecap="round"
-                          stroke-linejoin="round"
+                          strokeWidth="2"
+                          strokeLinecap="round"
+                          strokeLinejoin="round"
                           className="lucide lucide-arrow-right text-transparent group-hover/sub-menu:text-accentPrimary"
                         >
                           <path d="M5 12h14"></path>
@@ -1017,9 +1017,9 @@ const Navbar = () => {
                           viewBox="0 0 24 24"
                           fill="none"
                           stroke="currentColor"
-                          stroke-width="2"
-                          stroke-linecap="round"
-                          stroke-linejoin="round"
+                          strokeWidth="2"
+                          strokeLinecap="round"
+                          strokeLinejoin="round"
                           className="lucide lucide-arrow-right text-transparent group-hover/sub-menu:text-accentPrimary"
                         >
                           <path d="M5 12h14"></path>
@@ -1040,9 +1040,9 @@ const Navbar = () => {
                           viewBox="0 0 24 24"
                           fill="none"
                           stroke="currentColor"
-                          stroke-width="2"
-                          stroke-linecap="round"
-                          stroke-linejoin="round"
+                          strokeWidth="2"
+                          strokeLinecap="round"
+                          strokeLinejoin="round"
                           className="lucide lucide-arrow-right text-transparent group-hover/sub-menu:text-accentPrimary"
                         >
                           <path d="M5 12h14"></path>
@@ -1063,9 +1063,9 @@ const Navbar = () => {
                           viewBox="0 0 24 24"
                           fill="none"
                           stroke="currentColor"
-                          stroke-width="2"
-                          stroke-linecap="round"
-                          stroke-linejoin="round"
+                          strokeWidth="2"
+                          strokeLinecap="round"
+                          strokeLinejoin="round"
                           className="lucide lucide-arrow-right text-transparent group-hover/sub-menu:text-accentPrimary"
                         >
                           <path d="M5 12h14"></path>
@@ -1086,9 +1086,9 @@ const Navbar = () => {
                           viewBox="0 0 24 24"
                           fill="none"
                           stroke="currentColor"
-                          stroke-width="2"
-                          stroke-linecap="round"
-                          stroke-linejoin="round"
+                          strokeWidth="2"
+                          strokeLinecap="round"
+                          strokeLinejoin="round"
                           className="lucide lucide-arrow-right text-transparent group-hover/sub-menu:text-accentPrimary"
                         >
                           <path d="M5 12h14"></path>
@@ -1112,9 +1112,9 @@ const Navbar = () => {
                           viewBox="0 0 24 24"
                           fill="none"
                           stroke="currentColor"
-                          stroke-width="2"
-                          stroke-linecap="round"
-                          stroke-linejoin="round"
+                          strokeWidth="2"
+                          strokeLinecap="round"
+                          strokeLinejoin="round"
                           className="lucide lucide-arrow-right text-transparent group-hover/sub-menu:text-accentPrimary"
                         >
                           <path d="M5 12h14"></path>
@@ -1138,9 +1138,9 @@ const Navbar = () => {
                           viewBox="0 0 24 24"
                           fill="none"
                           stroke="currentColor"
-                          stroke-width="2"
-                          stroke-linecap="round"
-                          stroke-linejoin="round"
+                          strokeWidth="2"
+                          strokeLinecap="round"
+                          strokeLinejoin="round"
                           className="lucide lucide-arrow-right text-transparent group-hover/sub-menu:text-accentPrimary"
                         >
                           <path d="M5 12h14"></path>
@@ -1213,9 +1213,9 @@ const Navbar = () => {
                 viewBox="0 0 24 24"
                 fill="none"
                 stroke="currentColor"
-                stroke-width="2"
-                stroke-linecap="round"
-                stroke-linejoin="round"
+                strokeWidth="2"
+                strokeLinecap="round"
+                strokeLinejoin="round"
                 className="lucide lucide-menu "
               >
                 <line x1="4" x2="20" y1="12" y2="12"></line>
