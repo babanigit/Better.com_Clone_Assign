@@ -28,7 +28,8 @@ export default function RootLayout({
               <Link href="/about-us">About Us</Link>
             </li>
             <li>
-              <Link href="/mortgage-calculator">Mortgage Calculator</Link>
+            <Link href="/mortgage-calculator?taxes=265&zip=400017">
+            Mortgage Calculator </Link>
             </li>
             <li>
               <Link href="/start">Start</Link>

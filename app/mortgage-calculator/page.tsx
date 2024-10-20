@@ -1,10 +1,16 @@
+"use client";
 
-import React from 'react'
+import McSection1 from "@/components/sections/McSection1";
+import McSection2 from "@/components/sections/McSection2";
 
 const MortgageCalculator = () => {
   return (
-    <div>MortgageCalculator</div>
-  )
-}
+    <>
+      <McSection1 />
+      <McSection2 />
 
-export default MortgageCalculator
+    </>
+  );
+};
+
+export default MortgageCalculator;
